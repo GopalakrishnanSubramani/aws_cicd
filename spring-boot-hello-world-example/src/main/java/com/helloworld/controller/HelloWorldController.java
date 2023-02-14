@@ -7,6 +7,6 @@ public class HelloWorldController
 @RequestMapping("/")
 public String hello() 
 {
-return "<h1> Congratulations. You have successfully deployed adn triggered the application. </h1>";
+return "<h1> Congratulations. You have successfully automated and deployed the application. </h1>";
 }
 }
